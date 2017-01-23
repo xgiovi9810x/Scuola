@@ -5,4 +5,4 @@ FISICA: elettricità
 ITALIANO: Il Grande Ritratto (Dino Buzzati)
 INLESE:Il cacciatore di androidi
 ARTE: Metropolis (Espressionismo)
-CHIMICA:
+CHIMICA:Neuroni
