@@ -1,8 +1,9 @@
-STORIA: seconda e terza rivoluzione industriale
-FILOSOFIA: intelligenza artificiale (popper)
-MATEMATICA: Turing
-FISICA: elettricità
+> STORIA: seconda e terza rivoluzione industriale
+> FILOSOFIA: intelligenza artificiale (popper)
+> MATEMATICA: Turing 
+> FISICA: elettricità 
 ITALIANO: Il Grande Ritratto (Dino Buzzati)
-INLESE:Il cacciatore di androidi
-ARTE: Metropolis (Espressionismo)
-CHIMICA:Neuroni
+INLESE:Il cacciatore di androidi 
+> ARTE: Metropolis (Espressionismo) 
+> CHIMICA:Neuroni 
+ EDUCAZIONE FISICA:Robot subacqueo o montano
